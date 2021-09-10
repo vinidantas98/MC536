@@ -15,3 +15,5 @@ Estrutura de pastas:
 
 ## Tarefa sobre Consultas SQL no NHANES
 
+> [link para o notebook](notebook/lab3.ipynb)
+
