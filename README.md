@@ -5,6 +5,7 @@
 * [Laboratório 1](lab01/)
 * [Laboratório 2](lab02/)
 * [Laboratório 3](lab03/)
+* [Laboratório 4](lab04/)
 
 Abaixo são dadas orientações gerais para todos os laboratórios.
 
@@ -19,5 +20,7 @@ A seguir é apresentada a estrutura de pastas dos laboratórios:
 │
 ├── lab02      <- segundo lab
 │
-└── lab03      <- terceiro lab
+├── lab03      <- terceiro lab
+│
+└── lab04      <- quarto lab
 ~~~
