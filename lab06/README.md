@@ -4,8 +4,6 @@ Estrutura de pastas:
 
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa (se houver)
 ~~~
 
 # Aluno
