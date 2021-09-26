@@ -11,7 +11,7 @@ Estrutura de pastas:
 # Aluno
 * `188092`: `Vinicius Alves Mancine Dantas`
 
-# Análise do Artigo `Extracting and Composing a Dataset of Competitive Counter-Strike Global Offensive Matches`
+# Análise do Artigo Extracting and Composing a Dataset of Competitive Counter-Strike Global Offensive Matches
 
 | campo | valor |
 |------------|----------------------------------------|
@@ -23,8 +23,11 @@ Estrutura de pastas:
 ## Resumo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O artigo inicialmente discorre sobre como os jogos são parte de nossas vidas a milhares de anos e introduz os e-sports, jogos eletrônicos que vem ganhando espaço na mídia e movimentando bilhões de dólares ao redor do mundo. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O foco do artigo é em um jogo chamado Counter-Strike, um jogo multiplayer de FPS(First-Person Shooter) que contém um cenário competitivo muito bem desenvolvido. CS, como é chamado popularmente, contém diversas estratégias e, em alto nível competitivo, pequenos detalhes que acontecem durante o jogo são decisivos para a partida.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Todas a informações sobre os jogos e torneios competitivos estão espalhados em diversos sites contendo informações precisas sobre cada momento de cada jogo, o artigo divide esses dados em duas categorias: high level data e low level data. Por mais que esses dados possam ser encontrados facilmente em sites, o artigo diz que não há um dataset público que conecte os dois tipos de dados de forma a ser possível realizar uma análise profunda e detalhada sobre os jogos, estratégias, posicionamento, etc. Por conta disto, o objetivo do artigo é criar um dataset onde tudo isso seja possível.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para atingir este objetivo, diversas barreiras e desafios tiveram que ser quebrados. Estes desafios juntamente com uma explicação mais detalhada sobre quais ferramentas foram usadas, como é feita a coleta de dados, como estes dados são estruturados, indexados e armazenados são descritos no artigo.
 
 ## Perguntas de pesquisa/análises
