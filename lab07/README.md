@@ -12,7 +12,7 @@ Estrutura de pastas:
 * `188092`: `Vinicius Alves Mancine Dantas`
 
 ## Modelo Lógico do Banco de Dados de Grafos
-> ![Diagrama de Orquestração](images/modelo-logico-grafos.png)
+> ![Diagrama de Orquestração](images/modelo-logico-grafos.jpg)
 
 ## Perguntas de Pesquisa/análise
 
