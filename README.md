@@ -9,6 +9,7 @@
 * [Laboratório 5](lab05/)
 * [Laboratório 6](lab06/)
 * [Laboratório 7](lab07/)
+* [Laboratório 9](lab09/)
 
 Abaixo são dadas orientações gerais para todos os laboratórios.
 
@@ -31,5 +32,7 @@ A seguir é apresentada a estrutura de pastas dos laboratórios:
 │
 ├── lab06      <- sexto lab
 │
-└── lab07      <- sétimo lab
+├── lab07      <- sétimo lab
+│
+└── lab09      <- nono lab
 ~~~
